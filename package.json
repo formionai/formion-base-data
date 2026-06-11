@@ -1,0 +1,14 @@
+{
+  "name": "formion-base-data",
+  "version": "0.1.0",
+  "description": "Lightweight, key-free TypeScript client for live Base (Coinbase L2) DEX flow (Uniswap, BaseSwap, SushiSwap, PancakeSwap) via GeckoTerminal. Normalised pool rows: volume, liquidity, price change & buy/sell pressure.",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "scripts": { "example": "node --experimental-strip-types src/example.ts" },
+  "keywords": ["base", "base-chain", "coinbase", "l2", "dex", "uniswap", "baseswap", "aerodrome", "defi", "analytics", "geckoterminal", "formion"],
+  "author": "Nikola — Formion (formion.ai)",
+  "license": "MIT",
+  "homepage": "https://app.formion.ai/scan/dex-flow?chain=base",
+  "repository": "github:formionai/formion-base-data"
+}
