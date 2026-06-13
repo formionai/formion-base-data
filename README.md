@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/formionai/formion-base-data/main/assets/banner.png" alt="formion-base-data" width="100%" />
+
+</div>
+
 # formion-base-data
 
 **Lightweight, key-free TypeScript client for live Base (Coinbase L2) DEX flow.**
