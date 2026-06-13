@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/formionai/formion-base-data/main/assets/banner.png" alt="formion-base-data" width="100%" />
+<img src="https://raw.githubusercontent.com/formionai/formion-base-data/main/assets/banner.png" alt="formion-base-data" width="60%" />
 
 </div>
 
